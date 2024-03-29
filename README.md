@@ -5,3 +5,4 @@ The fourth page is about my works, I added photos here and at the bottom of thes
 The fifth page contains my gallery. Flexbox was used here too. It simplified my task several times.
 And the very last page is about my contacts, I attached links from my social networks there so that you can conveniently and quickly view or contact me.
 I tried to make the web page clear and easy to use. This work helped me consolidate all the past topics.
+And of course, I tried to make sure that on other gadgets (I took the phone as an example) the sizes of texts and pictures would change.
