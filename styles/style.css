@@ -257,7 +257,7 @@ a:hover {
     margin-left: 5px;
   }
   .images111{
-    width: 200px;
+    width: 150px;
   }
   .margin1{
     margin-left:10px;
@@ -266,6 +266,9 @@ a:hover {
     padding: 5px;
     margin: 10px;
     font-size: 10px;
+  }
+  .img222{
+    --s: 5px;
   }
   
 
