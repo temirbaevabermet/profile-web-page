@@ -1,0 +1,162 @@
+.nav {
+    background-color:  #0066b2;
+    overflow: hidden;
+  }
+  
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.nav a:hover {
+    background-color: #ddd;
+    color: darkblue;
+}
+  
+.nav a.active {
+    background-color:#7CB9E8 ;
+    color: white;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.cinzel {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #0066b2 ;
+    font-size: 45px;
+    text-align: center;
+  }
+  .indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    color: #0066b2;
+  }
+.body1Style {
+    background-color:#B0C4DE;
+}
+.imgStyle {
+    --s: 10px;
+    padding: var(--s);
+    border: calc(2*var(--s)) solid #0000;
+    outline: 1px solid #0066b2;
+    outline-offset: calc(-1*var(--s));
+    background: conic-gradient(from 90deg at 1px 1px,#0000 25%,#000 0);
+    width:450px;
+    height: auto;
+    display: block;
+    margin:auto;
+}
+.img2Style{
+    display: block;
+    margin:auto;
+}
+.architects-daughter-regular {
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    color: #0066b2;
+}
+span{
+    color: #004792;
+}
+
+.image-row1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .Images1{
+    width: 400px;
+    height: auto;
+}
+.underline{
+    border-bottom: 2px solid #004792;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+article {
+    padding: 5px;
+    margin: 5px;
+    background: #6699CC;
+  }
+.section1 {
+    display: flex;
+    text-align: center;
+    color: #B0C4DE;
+  }
+h2{
+    margin-bottom: 3px;
+    margin-top: 40px;
+}
+.myPhoto{
+    width: 300px;
+    height: auto;
+    border-color: #6699CC;
+    border-style: solid;
+}
+.section2 {
+    display: flex;
+    text-align: center;
+  }
+  .article1 {
+    padding: 10px;
+    margin: 20px;
+    background: #F0F8FF;
+  }
+.bodyStyle{
+    margin-left: 280px;
+    margin-right: 280px;
+    border-color: #004792;
+    border-style: solid;
+    background-color: #F0F8FF;
+
+}
+h3{
+    font-size: 30px;
+}
+.head {
+    font-size: 25px;
+  }
+  .montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+.image-row2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.Images2{
+    width: 300px;
+    height: auto;
+}
+  #footer {
+    background-color: #0066b2;
+    height: 50px;
+    width: 100%;
+    clear: both;
+    position: relative;
+  }
